@@ -3,6 +3,7 @@
     <h1>New user Register for DevOps Learning</h1>
     Manu was here 
     Trigger1
+    Trigger 2 Webhook
     <p>Please fill in this form to create an account.</p>
     <hr>
      
