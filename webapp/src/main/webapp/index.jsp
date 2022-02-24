@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
-    CICD Test2
+    CICD Test3
     Trigger1
     Trigger 2 Webhook
     <p>Please fill in this form to create an account.</p>
